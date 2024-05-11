@@ -1,6 +1,8 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shivam xwd) 
+##  python :
+<img align="right"alt="python"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F9WsF&psig=AOvVaw08DTNGVYS-iD17LnwWqKlg&ust=1715526872974000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiNrN_xhYYDFQAAAAAdAAAAABAJ">
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
